@@ -1,7 +1,7 @@
 Email: hguyue1 \[at\] outlook \[dot\] com
 
 ### Bio
-I am a MS/PhD student at Electrical & Computer Engineering, UC Santa Babara, starting from 2020. Currently I am doing an internship at at Alibaba Shanghai. My research interest is computer architecture. I received my B.E. from Department of Electronic Engineering, Tsinghua University. My undergraduate research was with [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn) on graph processing and GPU acceleration for GNN.
+I am an MS/PhD student at Electrical & Computer Engineering, UC Santa Babara, starting from 2020. Currently I am doing an internship at Alibaba Shanghai. My research interest is computer architecture. I received my B.E. from Department of Electronic Engineering, Tsinghua University. My undergraduate research was with [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn) on graph processing and GPU acceleration for GNN.
 
 [Google Scholar](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 

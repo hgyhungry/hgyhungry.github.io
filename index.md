@@ -7,7 +7,7 @@ I am an MS/PhD student at Electrical & Computer Engineering, UC Santa Barbara, s
 
 ### News
 - \[02/2021\] Our survey on Machine Learning for EDA is accepted for publication in TODAES. [pdf](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2021/TODAES21_331_mzGV3SA.pdf)
-- \[10/2020\] MICRO20 Student Research Competition Winning Entry (Undergrad Catagory)! [youtube video](https://youtu.be/x76AhXvlT5k) [poster](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/SRC20_None.pdf)
+- \[10/2020\] MICRO20 Student Research Competition Winning Entry (Undergrad Category)! [youtube video](https://youtu.be/x76AhXvlT5k) [poster](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/SRC20_None.pdf)
 - \[07/2020\] Our work on GPU acceleration of SpMM is accepted by [SC'20](https://sc20.supercomputing.org). [preprint](https://arxiv.org/abs/2007.03179) [code](https://github.com/hgyhungry/ge-spmm).
 - \[06/2020\] Our course project [awesome_ai4eda](https://github.com/thu-nics/awesome_ai4eda) (a paper-list on Machine Learning for EDA) is online. [paper list](https://github.com/thu-nics/awesome_ai4eda) [slide](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/arxiv_None_slide.pdf)
 

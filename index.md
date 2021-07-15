@@ -8,7 +8,7 @@ I am an MS/PhD student at Department of Electrical and Computer Engineering, UC 
 
 ### News
 - \[07/2021\] A fast GPU-SpMM library is released as part of [dgSPARSE](https://github.com/dgSPARSE) (Deep Graph Sparse Library).
-- \[07/2021\] ACM Student Research Competition (2020-2021) winning entry (Graduate 3rd Place)!. [preprint](https://arxiv.org/abs/2106.16064)  [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/ge-spmm)
+- \[07/2021\] ACM Student Research Competition (2020-2021) winning entry (Graduate 3rd Place)!. [site](https://src.acm.org) [preprint](https://arxiv.org/abs/2106.16064)  [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/ge-spmm)
 - \[02/2021\] Our survey on Machine Learning for EDA is accepted for publication in TODAES. [preprint](https://arxiv.org/abs/2102.03357)
 - \[10/2020\] MICRO20 Student Research Competition Winning Entry (Undergrad Category)! [youtube video](https://youtu.be/x76AhXvlT5k) [poster](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/SRC20_None.pdf)
 - \[07/2020\] Our work on GPU acceleration of SpMM is accepted by [SC'20](https://sc20.supercomputing.org). [preprint](https://arxiv.org/abs/2007.03179). [code](https://github.com/hgyhungry/ge-spmm).

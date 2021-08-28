@@ -1,5 +1,5 @@
 ### Contact
-hguyue1 \[at\] outlook \[dot\] com
+hguyue1@outlook.com
 
 ### Bio
 I am an MS/PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I am supervised by Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. Currently I am doing an internship at Alibaba Shanghai. My research interest is computer architecture. I received my B.E. from Department of Electronic Engineering, Tsinghua University, in 2020. My undergraduate research was with [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn) on graph processing and GPU acceleration for GNN.
@@ -7,6 +7,7 @@ I am an MS/PhD student at Department of Electrical and Computer Engineering, UC 
 [Google Scholar Page](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ### News
+- \[08/2021\] GPU-SDDMM paper is accepted to ICCD'21.
 - \[07/2021\] A fast GPU-SpMM library is released as part of [dgSPARSE](https://github.com/dgSPARSE) (Deep Graph Sparse Library).
 - \[07/2021\] ACM Student Research Competition (2020-2021) winning entry (Graduate 3rd Place)!. [site](https://src.acm.org) [preprint](https://arxiv.org/abs/2106.16064)  [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/ge-spmm)
 - \[02/2021\] Our survey on Machine Learning for EDA is accepted for publication in TODAES. [preprint](https://arxiv.org/abs/2102.03357)

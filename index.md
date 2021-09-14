@@ -2,7 +2,7 @@
 hguyue1@outlook.com
 
 ### Bio
-I am an MS/PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I am supervised by Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. Currently I am doing an internship at Alibaba Shanghai. My research interest is computer architecture. I received my B.E. from Department of Electronic Engineering, Tsinghua University, in 2020. My undergraduate research was with [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn) on graph processing and GPU acceleration for GNN.
+I am an MS/PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I am supervised by Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. I did an internship at Alibaba (Aug 2020-Sept 2021, focusing on GPU software). I received my B.E. from Department of Electronic Engineering, Tsinghua University, in 2020. My undergraduate research was with [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn) on graph processing and GPU acceleration for GNN. 
 
 [Google Scholar Page](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 

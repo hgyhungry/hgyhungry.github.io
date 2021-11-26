@@ -1,26 +1,29 @@
-### Contact
+## Contact
 hguyue1@outlook.com
 
-### Bio
-I am an MS/PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I am supervised by Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. I did an internship at Alibaba (Aug 2020-Sept 2021, focusing on GPU software). I received my B.E. from Department of Electronic Engineering, Tsinghua University, in 2020. My undergraduate research was with [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn) on graph processing and GPU acceleration for GNN. 
+## Bio
+I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. My advisors are Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. 
+
+Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU software. I received my B.E. from Department of Electronic Engineering, Tsinghua University. 
 
 [Google Scholar Page](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
-### News
-- \[10/2021\] Our recent project studies how to optimize the GNN computational graph. [Arxiv](http://arxiv.org/abs/2110.09524)
-- \[08/2021\] GPU-SDDMM paper is accepted to ICCD'21.
-- \[07/2021\] A fast GPU-SpMM library is released as part of [dgSPARSE](https://github.com/dgSPARSE) (Deep Graph Sparse Library).
-- \[07/2021\] ACM Student Research Competition (2020-2021) winning entry (Graduate 3rd Place)!. [site](https://src.acm.org) [preprint](https://arxiv.org/abs/2106.16064)  [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/ge-spmm)
-- \[02/2021\] Our survey on Machine Learning for EDA is accepted for publication in TODAES. [preprint](https://arxiv.org/abs/2102.03357)
-- \[10/2020\] MICRO20 Student Research Competition Winning Entry (Undergrad Category)! [youtube video](https://youtu.be/x76AhXvlT5k) [poster](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/SRC20_None.pdf)
-- \[07/2020\] Our work on GPU acceleration of SpMM is accepted by [SC'20](https://sc20.supercomputing.org). [preprint](https://arxiv.org/abs/2007.03179). [code](https://github.com/hgyhungry/ge-spmm).
-- \[06/2020\] Our course project [awesome_ai4eda](https://github.com/thu-nics/awesome_ai4eda) (a paper-list on Machine Learning for EDA) is online. [paper list](https://github.com/thu-nics/awesome_ai4eda) [slide](http://nicsefc.ee.tsinghua.edu.cn/media/publications/2020/arxiv_None_slide.pdf)
-
-
-### Publication
-- Hengrui Zhang, Zhongming Yu, Guohao Dai, **Guyue Huang**, Yufei Ding, Yuan Xie, Yu Wang. Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. 2021. *preprint*. https://arxiv.org/abs/2110.09524[[link]](https://arxiv.org/abs/2110.09524)
+## Publications
+### GPU sparse kernels
 - Zhongming Yu, Guohao Dai, **Guyue Huang**, Yu Wang and Huazhong Yang. Exploiting Online Locality and Reduction Parallelism for Sampled Dense Matrix Multiplication on GPUs. The 39th IEEE International Conference on Computer Design (ICCD), 2021. 
-- **Guyue Huang**, Guohao Dai, Yu Wang, Yufei Ding and Yuan Xie. Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction. 2021. *preprint*. https://arxiv.org/abs/2106.16064 [[link]](https://arxiv.org/abs/2106.16064)
-- **Guyue Huang\***, Jingbo Hu\*, Yifan He\*, Jialong Liu\*, Mingyuan Ma\*, Chaoyang Shen\*, Juejian Wu\*, Yuanfan Xu\*, Hengrui Zhang\*, Kai Zhong\*, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei Yu, Huazhong Yang, and Yu Wang,  Machine Learning for Electronic Design Automation: A Survey, TODAES, 2021 [[link]](https://dl.acm.org/doi/abs/10.1145/3451179)
+- **Guyue Huang**, Guohao Dai, Yu Wang, Yufei Ding and Yuan Xie. Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction. 2021. ACM Student Research Competition (SRC), 2021 [[webpage]](https://src.acm.org) [[link]](https://arxiv.org/abs/2106.16064)
 - **Guyue Huang**, Guohao Dai, Yu Wang and Huazhong Yang. GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2020. [[link]](https://ieeexplore.ieee.org/document/9355302)
+
+### GNN acceleration
+- Hengrui Zhang, Zhongming Yu, Guohao Dai, **Guyue Huang**, Yufei Ding, Yuan Xie, Yu Wang. Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. 2021. *preprint*. https://arxiv.org/abs/2110.09524. [[link]](https://arxiv.org/abs/2110.09524)
+
+### Others
+- **Guyue Huang\***, Jingbo Hu\*, Yifan He\*, Jialong Liu\*, Mingyuan Ma\*, Chaoyang Shen\*, Juejian Wu\*, Yuanfan Xu\*, Hengrui Zhang\*, Kai Zhong\*, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei Yu, Huazhong Yang, and Yu Wang,  Machine Learning for Electronic Design Automation: A Survey, TODAES, 2021 [[link]](https://dl.acm.org/doi/abs/10.1145/3451179)
 - Qin Li, Huifeng Zhu, **Guyue Huang**, Zijie Yu, Fei Qiao, Qi Wei, Xinjun Liu, Huazhong Yang. Low-power in-pixel buffer circuit for smart image sensor. Sensor Review, 2020
+
+## Project Highlights
+### dgSPARSE
+The dgSPARSE project contains high-performance GPU kernels for sparse matrix primitives. We provide an interface to seemlessly replace cuSPARSE in your existing applications. It contains
+- GNN computational graph optimization [code](https://github.com/dgSPARSE/dgNN)  [paper](http://arxiv.org/abs/2110.09524)
+- GPU SDDMM [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/sddmm) [paper](https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2021/ICCD21_None.pdf)
+- GPU SpMM [code](https://github.com/hgyhungry/dgSPARSE-Library/tree/main/example) [paper](https://arxiv.org/abs/2106.16064)

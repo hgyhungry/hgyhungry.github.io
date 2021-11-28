@@ -23,7 +23,7 @@ Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU
 
 ## Project Highlights
 ### dgSPARSE
-The dgSPARSE project contains high-performance GPU kernels for sparse matrix primitives. We provide an interface to seemlessly replace cuSPARSE in your existing applications. It contains
+The dgSPARSE project contains high-performance GPU kernels for sparse matrix primitives. We provide an interface to easily replace cuSPARSE in your existing applications. It contains
 - GNN computational graph optimization [code](https://github.com/dgSPARSE/dgNN)  [paper](http://arxiv.org/abs/2110.09524)
 - GPU SDDMM [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/sddmm) [paper](https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2021/ICCD21_None.pdf)
 - GPU SpMM [code](https://github.com/hgyhungry/dgSPARSE-Library/tree/main/example) [paper](https://arxiv.org/abs/2106.16064)

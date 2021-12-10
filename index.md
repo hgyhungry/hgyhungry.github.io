@@ -1,5 +1,5 @@
 ## Contact
-hguyue1@outlook.com
+hguyue1@gmail.com
 
 ## Bio
 I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. My advisors are Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. 

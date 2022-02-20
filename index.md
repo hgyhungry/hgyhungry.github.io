@@ -10,6 +10,8 @@ Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU
 ## Publications
 Full List at [[Google Scholar]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
+[[preprint][GPU Sparse Kernel]](https://arxiv.org/pdf/2202.08556.pdf) Guohao Dai, Guyue Huang, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang. Heuristic Adaptability to Input Dynamics for SpMM on GPUs. 
+
 [[MLSys'22][GNN System]](https://arxiv.org/abs/2110.09524) Hengrui Zhang, Zhongming Yu, Guohao Dai, *Guyue Huang*, Yufei Ding, Yuan Xie, Yu Wang. Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective.
 
 [[ICCD'21][GPU Sparse Kernel]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9643711) Zhongming Yu, Guohao Dai, *Guyue Huang*, Yu Wang and Huazhong Yang. Exploiting Online Locality and Reduction Parallelism for Sampled Dense Matrix Multiplication on GPUs. The 39th IEEE International Conference on Computer Design (ICCD), 2021. 

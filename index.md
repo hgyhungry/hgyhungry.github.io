@@ -10,7 +10,9 @@ Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU
 ## Publications
 Full List at [[Google Scholar]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
-[[preprint][GPU Sparse Kernel]](https://arxiv.org/pdf/2202.08556.pdf) Guohao Dai, **Guyue Huang**, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang. Heuristic Adaptability to Input Dynamics for SpMM on GPUs. 
+[DAC'22][Sparse NN] **Guyue Huang**, Haoran Li, Fei Sun, Minghai Qin, Yufei Ding and Yuan Xie. Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning. *to appear, DAC'22*
+
+[[DAC'22][GPU Sparse Kernel]](https://arxiv.org/pdf/2202.08556.pdf) Guohao Dai, **Guyue Huang**, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang. Heuristic Adaptability to Input Dynamics for SpMM on GPUs. *to appear, DAC'22*
 
 [[MLSys'22][GNN System]](https://arxiv.org/abs/2110.09524) Hengrui Zhang, Zhongming Yu, Guohao Dai, **Guyue Huang**, Yufei Ding, Yuan Xie, Yu Wang. Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective.
 

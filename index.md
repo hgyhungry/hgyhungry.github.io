@@ -2,15 +2,14 @@
 hguyue1@gmail.com
 
 ## Bio
-I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. My advisors are Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. 
+I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. 
 
 Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU software. I received my B.E. from Department of Electronic Engineering, Tsinghua University. 
 
 
 ## Publications
-Full List at [[Google Scholar]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
-[DAC'22][Sparse NN] **Guyue Huang**, Haoran Li, Fei Sun, Minghai Qin, Yufei Ding and Yuan Xie. Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning. *to appear, DAC'22*
+[DAC'22][Sparse NN] **Guyue Huang**, Haoran Li, Minghai Qin, Fei Sun, Yufei Ding and Yuan Xie. Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning. *to appear, DAC'22*
 
 [[DAC'22][GPU Sparse Kernel]](https://arxiv.org/pdf/2202.08556.pdf) Guohao Dai, **Guyue Huang**, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang. Heuristic Adaptability to Input Dynamics for SpMM on GPUs. *to appear, DAC'22*
 
@@ -24,7 +23,7 @@ Full List at [[Google Scholar]](https://scholar.google.com/citations?user=_phoJY
 
 [[SC'20][GPU Sparse Kernel]](https://ieeexplore.ieee.org/document/9355302) **Guyue Huang**, Guohao Dai, Yu Wang and Huazhong Yang. GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2020.
 
-## Project
+## Open-source
 dgSPARSE
 The dgSPARSE project contains high-performance GPU kernels for sparse matrix primitives. We provide an interface to easily replace cuSPARSE in your existing applications. It contains
 - GNN computational graph optimization [code](https://github.com/dgSPARSE/dgNN)  [paper](http://arxiv.org/abs/2110.09524)

@@ -31,7 +31,7 @@ The dgSPARSE project contains high-performance GPU kernels for sparse matrix pri
 - GPU SpMM [code](https://github.com/hgyhungry/dgSPARSE-Library/tree/main/example) [paper](https://arxiv.org/abs/2106.16064)
 
 ## Honors and Awards
-- Graduate 3rd Place, ACM Student Research Competition (2020) (https://src.acm.org)
+- Graduate 3rd Place, ACM Student Research Competition (2020)
 
 ## News
 - I will give a talk about fast GPU SpMM on [GTC](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-950149) at Mar.24, 11AM (PDT)

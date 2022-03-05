@@ -34,8 +34,8 @@ The dgSPARSE project contains high-performance GPU kernels for sparse matrix pri
 - Graduate 3rd Place, ACM Student Research Competition (2020)
 
 ## News
-- I will give a talk about fast GPU SpMM on [GTC](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-950149) at Mar.24, 11AM (PDT)
-- I gave a talk at ECE graduate student association lightning talk event about GPU sparse kernels. 
+- Talk to-be at [GTC](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-950149) Mar.24, 11AM (PDT), about fast GPU SpMM 
+- Talk at ECE graduate student association lightning talk event, about GPU sparse kernels
 
 ## Services
 - Conference reviewer: OSDI 2022 

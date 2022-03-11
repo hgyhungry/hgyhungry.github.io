@@ -9,7 +9,7 @@ Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU
 
 ## Publications
 
-[DAC'22][Sparse NN] **Guyue Huang**, Haoran Li, Minghai Qin, Fei Sun, Yufei Ding and Yuan Xie. Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning. *to appear, DAC'22*
+[[DAC'22][Sparse NN]](https://arxiv.org/abs/2203.05016) **Guyue Huang**, Haoran Li, Minghai Qin, Fei Sun, Yufei Ding and Yuan Xie. Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning. *to appear, DAC'22*
 
 [[DAC'22][GPU Sparse Kernel]](https://arxiv.org/pdf/2202.08556.pdf) Guohao Dai, **Guyue Huang**, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang. Heuristic Adaptability to Input Dynamics for SpMM on GPUs. *to appear, DAC'22*
 

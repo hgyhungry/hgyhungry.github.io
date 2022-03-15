@@ -2,7 +2,7 @@
 hguyue1@gmail.com
 
 ## Bio
-I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. Yuan Xie. My research interest is computer architecture. 
+I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). My research interest is computer architecture. 
 
 Previously, I did an internship at Alibaba (Aug 2020-Sept 2021), focusing on GPU software. I received my B.E. from Department of Electronic Engineering, Tsinghua University. 
 

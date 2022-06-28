@@ -2,8 +2,14 @@
 hguyue1@gmail.com
 
 ## Bio
-I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). My research interest is computer architecture. I received my B.E. from Department of Electronic Engineering, Tsinghua University. 
+I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). I received my B.E. from Department of Electronic Engineering, Tsinghua University. 
 
+My research interest is compiler for emerging architecture. I also work on end-to-end optimization of DL training, through joint efforts from GPU kernel, compiler, GPU architecture and network. Below are some topics I have been working on:
+* Deep Learning compiler (e.g., TVM)
+* GPU sparse math kernels
+* Sparse neural network and pattern pruning
+* End-to-end training optimization for GNN, Transformer, Recommender Model
+* GPU sparse tensor core architecture
 
 ## Publications
 

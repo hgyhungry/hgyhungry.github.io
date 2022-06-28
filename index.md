@@ -9,7 +9,7 @@ My research interest is compiler for emerging architecture. I also work on end-t
 * GPU sparse math kernels
 * Sparse neural network and pattern pruning
 * End-to-end training optimization for GNN, Transformer, Recommender Model
-* GPU sparse tensor core architecture
+* GPU sparse tensor core design
 
 ## Publications
 

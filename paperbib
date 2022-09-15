@@ -1,0 +1,45 @@
+@inproceedings{huang2022shfl,
+  title={Shfl-BW: accelerating deep neural network inference with tensor-core aware weight pruning},
+  author={Huang, Guyue and Li, Haoran and Qin, Minghai and Sun, Fei and Ding, Yufei and Xie, Yuan},
+  booktitle={Proceedings of the 59th ACM/IEEE Design Automation Conference},
+  pages={1153--1158},
+  year={2022}
+}
+
+@article{zhang2022understanding,
+  title={Understanding gnn computational graph: A coordinated computation, io, and memory perspective},
+  author={Zhang, Hengrui and Yu, Zhongming and Dai, Guohao and Huang, Guyue and Ding, Yufei and Xie, Yuan and Wang, Yu},
+  journal={Proceedings of Machine Learning and Systems},
+  volume={4},
+  pages={467--484},
+  year={2022}
+}
+
+@inproceedings{yu2021exploiting,
+  title={Exploiting Online Locality and Reduction Parallelism for Sampled Dense Matrix Multiplication on GPUs},
+  author={Yu, Zhongming and Dai, Guohao and Huang, Guyue and Wang, Yu and Yang, Huazhong},
+  booktitle={2021 IEEE 39th International Conference on Computer Design (ICCD)},
+  pages={567--574},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{huang2021machine,
+  title={Machine learning for electronic design automation: A survey},
+  author={Huang, Guyue and Hu, Jingbo and He, Yifan and Liu, Jialong and Ma, Mingyuan and Shen, Zhaoyang and Wu, Juejian and Xu, Yuanfan and Zhang, Hengrui and Zhong, Kai and others},
+  journal={ACM Transactions on Design Automation of Electronic Systems (TODAES)},
+  volume={26},
+  number={5},
+  pages={1--46},
+  year={2021},
+  publisher={ACM New York, NY}
+}
+
+@inproceedings{huang2020ge,
+  title={Ge-spmm: General-purpose sparse matrix-matrix multiplication on gpus for graph neural networks},
+  author={Huang, Guyue and Dai, Guohao and Wang, Yu and Yang, Huazhong},
+  booktitle={SC20: International Conference for High Performance Computing, Networking, Storage and Analysis},
+  pages={1--12},
+  year={2020},
+  organization={IEEE}
+}

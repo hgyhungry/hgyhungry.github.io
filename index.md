@@ -2,7 +2,7 @@
 hguyue1@gmail.com
 
 ## Bio
-I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
+I am a PhD student at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
 
 My research interest is compiler for domain-specific accelerators. I also work on end-to-end optimization of DL training, through joint efforts from GPU kernel, compiler, GPU architecture and network. Below are some topics I have been working on:
 * Deep Learning compiler (e.g., TVM)
@@ -45,3 +45,11 @@ The dgSPARSE project contains high-performance GPU kernels for sparse matrix pri
 ## Talks
 - Talk at [[GTC 2022 Spring]](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-950149): [dgSparseLib: New Algorithm and Adaptive Tuning for Sparse-dense Matrix Multiplication](https://events.rainfocus.com/widget/nvidia/gtcspring2022/sessioncatalog/session/1634865676629001SK4D)
 - Talk at UCSB ECE graduate student lightning talk, about GPU sparse kernels
+
+## HR reference keywords
+* Computer Architecture - GPU arch - sparse computing / tensor-core 
+* Machine learning - ML compiler - TVM 
+* Machine learning - ML system - GNN / Recommendation-model / Transformer
+* Parallel programming - GPU acceleration - sparse matrix kernels
+
+

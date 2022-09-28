@@ -25,7 +25,7 @@ My research interest is compiler for domain-specific accelerators. I also work o
 
 [[ICCD'21][GPU Sparse Kernel]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9643711) Zhongming Yu, Guohao Dai, **Guyue Huang**, Yu Wang and Huazhong Yang. Exploiting Online Locality and Reduction Parallelism for Sampled Dense Matrix Multiplication on GPUs. The 39th IEEE International Conference on Computer Design (ICCD), 2021. [[bibtex]](https://github.com/hgyhungry/hgyhungry.github.io/blob/e132384030cb8a273b5c35e02d84582f04294ffc/paperbib#L18)
 
-[[ACM-SRC'21][GPU Sparse Kernel]](https://arxiv.org/abs/2106.16064)**Guyue Huang**, Guohao Dai, Yu Wang, Yufei Ding and Yuan Xie. Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction. 2021. ACM Student Research Competition (SRC), Graduate 3rd Place (https://src.acm.org)
+[[ACM-SRC'21][GPU Sparse Kernel]](https://arxiv.org/abs/2106.16064) **Guyue Huang**, Guohao Dai, Yu Wang, Yufei Ding and Yuan Xie. Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction. 2021. ACM Student Research Competition (SRC), Graduate 3rd Place (https://src.acm.org)
 
 [[TODAES'21][ML EDA]](https://dl.acm.org/doi/abs/10.1145/3451179) **Guyue Huang\***, Jingbo Hu\*, Yifan He\*, Jialong Liu\*, Mingyuan Ma\*, Chaoyang Shen\*, Juejian Wu\*, Yuanfan Xu\*, Hengrui Zhang\*, Kai Zhong\*, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei Yu, Huazhong Yang, and Yu Wang,  Machine Learning for Electronic Design Automation: A Survey. [[bibtex]](https://github.com/hgyhungry/hgyhungry.github.io/blob/e132384030cb8a273b5c35e02d84582f04294ffc/paperbib#L27)
 
@@ -53,5 +53,3 @@ The dgSPARSE project contains high-performance GPU kernels for sparse matrix pri
 * Machine learning - ML compiler - TVM 
 * Machine learning - ML system - GNN / Recommendation-model / Transformer
 * Parallel programming - GPU acceleration - sparse matrix kernels
-
-

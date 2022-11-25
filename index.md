@@ -4,7 +4,7 @@ hguyue1@gmail.com
 ## Bio
 I am a PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
 
-My research interest is compiler for domain-specific accelerators. I also work on end-to-end optimization of DL training, through joint efforts from GPU kernel, compiler, GPU architecture and network. Below are some topics I have been working on:
+Below are some topics I have been working on:
 * Deep Learning compiler (e.g., TVM)
 * GPU sparse math kernels
 * Sparse neural network and pattern pruning
@@ -35,6 +35,23 @@ My research interest is compiler for domain-specific accelerators. I also work o
 
 [DL Compiler] Enabling Data Movement and Computation Pipelining in Deep Learning Compiler. [[preprint]](https://arxiv.org/abs/2210.16691)
 
+
+## Research Experiences
+
+One of my research interests is **GPU sparse matrix kernels**, mainly targetting graph neural network (GNN) acceleration. I develop techniques to improve the memory access efficiency and input pattern adaptability for CUDA-based sparse matrix kernels. I have worked on SpMM acceleration and published [<ins>GE-SpMM</ins>](https://ieeexplore.ieee.org/document/9355302) (first-author paper at SC'20) and [<ins>DA-SpMM</ins>](https://dl.acm.org/doi/10.1145/3489517.3530508) (collaboration with [Dr. Guohao](https://scholar.google.com/citations?user=gz3Tkl0AAAAJ&hl=en), DAC'22 best paper candidate). I have also worked on GNN computational graph level optimizations and published a paper at [<ins>MLSys'22</ins>](https://proceedings.mlsys.org/paper/2022/hash/9a1158154dfa42caddbd0694a4e9bdc8-Abstract.html) (collaboration with [Hengrui](https://github.com/HenryChang213) and [Zhongming](https://github.com/fishmingyu)). Our research outcomes have been used by popular GNN frameworks like PyG and CogDL.
+
+In parallel to GNN acceleration, I also work on **sparse neural network acceleration** and have published [<ins>Shfl-BW</ins>](https://dl.acm.org/doi/abs/10.1145/3489517.3530588)(first-author paper at DAC'22), which proposed a software-algorithm co-design method that combined the efficiency of block-wise pruning and the flexibility of unstructured pruning.
+
+I also do research about **deep learning compiler**. I am interested in how to integrate advanced hardware features and analytical performance models into DL compilers to close the gap between compiler generated and manually developed kernels on DL accelerators. I mainly work on the TVM stack. My recent work [<ins>ALCOP</ins>](https://arxiv.org/abs/2210.16691) studies how to realize load-compute pipelining via compiler automation.
+
+My recent research interest is architecture support for sparse computing. I am happy to discuss related research ideas with potential collaborators (please feel free to email me at guyue@ucsb.edu).
+
+## Skills
+* Computer Architecture - GPU arch - sparse computing / tensor-core 
+* ML system - ML compiler - TVM 
+* ML system - GNN / Recommendation-model / Transformer
+* GPU acceleration - sparse matrix kernels
+
 ## Awards
 - DAC'22 best paper nomination
 - Graduate 3rd Place, ACM Student Research Competition (2020) [[webpage]](https://src.acm.org/)
@@ -55,9 +72,3 @@ The dgSPARSE project contains high-performance GPU kernels for sparse matrix pri
 - GNN computational graph optimization [code](https://github.com/dgSPARSE/dgNN)  [paper](http://arxiv.org/abs/2110.09524)
 - GPU SDDMM [code](https://github.com/dgSPARSE/dgSPARSE-Library/tree/main/src/sddmm) [paper](https://nicsefc.ee.tsinghua.edu.cn/nics_file/pdf/publications/2021/ICCD21_None.pdf)
 - GPU SpMM [code](https://github.com/hgyhungry/dgSPARSE-Library/tree/main/example) [paper](https://arxiv.org/abs/2106.16064)
-
-## HR reference keywords
-* Computer Architecture - GPU arch - sparse computing / tensor-core 
-* Machine learning - ML compiler - TVM 
-* Machine learning - ML system - GNN / Recommendation-model / Transformer
-* Parallel programming - GPU acceleration - sparse matrix kernels

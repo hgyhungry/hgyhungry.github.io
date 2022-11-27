@@ -53,8 +53,9 @@ My recent research interest is architecture support for sparse computing. I am h
 * GPU acceleration - sparse matrix kernels
 
 ## Awards
+- MLSys'22 Student Travel Grant
 - DAC'22 best paper nomination
-- Graduate 3rd Place, ACM Student Research Competition (2020) [[webpage]](https://src.acm.org/)
+- ACM Student Research Competition (2020) Graduate 3rd Place [[webpage]](https://src.acm.org/)
 
 ## Services
 - MLSys'23 External Review Committee (ERC)

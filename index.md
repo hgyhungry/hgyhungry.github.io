@@ -62,7 +62,6 @@ My recent research interest is architecture support for sparse computing. I am h
 
 ## Talks
 - Talk at [[GTC 2022 Spring]](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-950149): [dgSparseLib: New Algorithm and Adaptive Tuning for Sparse-dense Matrix Multiplication](https://events.rainfocus.com/widget/nvidia/gtcspring2022/sessioncatalog/session/1634865676629001SK4D)
-- Talk at UCSB ECE graduate student lightning talk, about GPU sparse kernels
 
 ## Open-source
 ### ShflBW

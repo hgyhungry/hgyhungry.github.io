@@ -15,7 +15,7 @@ Below are some topics I have been working on:
 
 ## Publications
 
-[Mlsys'23] Enabling Data Movement and Computation Pipelining in Deep Learning Compiler. **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)
+[Mlsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. Enabling Data Movement and Computation Pipelining in Deep Learning Compiler. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)
 
 [[SC'22]](https://arxiv.org/abs/2110.05722) Xiaohui Wang, Yang Wei, Ying Xiong, **Guyue Huang**, Xian Qian, Yufei Ding, Mingxuan Wang, Lei Li. LightSeq2: Accelerated Training for Transformer-based Models on GPUs. SC'22.
 

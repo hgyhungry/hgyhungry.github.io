@@ -39,15 +39,9 @@ One of my research interests is **GPU sparse matrix kernels**, mainly targetting
 
 In parallel to GNN acceleration, I also work on **sparse neural network acceleration** and have published [<ins>Shfl-BW</ins>](https://dl.acm.org/doi/abs/10.1145/3489517.3530588)(first-author paper at DAC'22), which proposed a software-algorithm co-design method that combined the efficiency of block-wise pruning and the flexibility of unstructured pruning.
 
-I also do research about **deep learning compiler**. I am interested in how to integrate advanced hardware features and analytical performance models into DL compilers to close the gap between compiler generated and manually developed kernels on DL accelerators. I mainly work on the TVM stack. My recent work [<ins>ALCOP</ins>](https://arxiv.org/abs/2210.16691) studies how to realize load-compute pipelining via compiler automation.
+I also do research about **deep learning compiler**. I am interested in how to integrate advanced hardware features and analytical performance models into DL compilers to close the gap between compiler generated and manually developed kernels on DL accelerators. I mainly work on the TVM stack. My recent work [<ins>ALCOP</ins>](https://arxiv.org/abs/2210.16691)(first-author paper at MLSys'23) studies how to realize load-compute pipelining via compiler automation.
 
 My recent research interest is architecture support for sparse computing. I am happy to discuss related research ideas with potential collaborators (please feel free to email me at guyue@ucsb.edu).
-
-## Skills
-* Computer Architecture - GPU arch - sparse computing / tensor-core 
-* ML system - ML compiler - TVM 
-* ML system - GNN / Recommendation-model / Transformer
-* GPU acceleration - sparse matrix kernels
 
 ## Awards
 - MLSys'22 Student Travel Grant

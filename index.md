@@ -15,7 +15,7 @@ Below are some topics I have been working on:
 
 ## Publications
 
-[Mlsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)
+[Mlsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
 
 [[SC'22]](https://arxiv.org/abs/2110.05722) Xiaohui Wang, Yang Wei, Ying Xiong, **Guyue Huang**, Xian Qian, Yufei Ding, Mingxuan Wang, Lei Li. LightSeq2: Accelerated Training for Transformer-based Models on GPUs. SC'22.
 
@@ -55,6 +55,10 @@ My recent research interest is architecture support for sparse computing. I am h
 - Talk at [[GTC 2022 Spring]](https://www.nvidia.com/gtc/?ncid=pa-srch-goog-950149): [dgSparseLib: New Algorithm and Adaptive Tuning for Sparse-dense Matrix Multiplication](https://events.rainfocus.com/widget/nvidia/gtcspring2022/sessioncatalog/session/1634865676629001SK4D)
 
 ## Open-source
+
+### ALCOP
+ALCOP is short for Automatic Load-COmpute Pipelining. This project presents a compiler pass based on TVM that pipelines the data movement and computation in GPU kernels. Code released at [this repo](https://github.com/hgyhungry/alcop-artifact). Paper at [this link](https://arxiv.org/abs/2210.16691).
+
 ### ShflBW
 ShflBW is a sparse NN kernel library, and also a pattern pruning method. Code released at [this repo](https://github.com/hgyhungry/ShflBW_Sparse_NN). Paper at [this link](https://arxiv.org/abs/2203.05016).
 

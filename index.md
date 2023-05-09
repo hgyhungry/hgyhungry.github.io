@@ -15,7 +15,9 @@ Below are some topics I have been working on:
 
 ## Publications
 
-[Mlsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
+[ATC'23] Yuke Wang, Boyuan Feng, Zheng Wang, **Guyue Huang**, Yufei Ding. TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs. *To appear in Annual Technical Conference (ATC), 2023*.[[preprint]](https://arxiv.org/pdf/2112.02052.pdf)[[code]](https://github.com/YukeWang96/TC-GNN_ATC23)
+
+[MLsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
 
 [[SC'22]](https://arxiv.org/abs/2110.05722) Xiaohui Wang, Yang Wei, Ying Xiong, **Guyue Huang**, Xian Qian, Yufei Ding, Mingxuan Wang, Lei Li. LightSeq2: Accelerated Training for Transformer-based Models on GPUs. SC'22.
 

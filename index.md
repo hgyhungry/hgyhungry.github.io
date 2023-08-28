@@ -4,20 +4,21 @@ hguyue1@gmail.com
 ## Bio
 I am a PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
 
-Below are some topics I have been working on:
-* Deep Learning compiler (e.g., TVM)
-* GPU sparse math kernels
-* Sparse neural network and pattern pruning
-* End-to-end training optimization for GNN, Transformer, Recommender Model
-* GPU sparse tensor core design
+My PhD research is focused on supporting sparsity in AI/ML on GPU architecture. 
+
+I am also generally interested / experienced with
+* ML system + deep Learning compiler
+* GPU kernel design, sparse linear algebra in particular
 
 [[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ## Publications
+[MICRO'23] Guyue Huang, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
+Microarchitecture (MICRO-56), 2023*.
 
-[ATC'23] Yuke Wang, Boyuan Feng, Zheng Wang, **Guyue Huang**, Yufei Ding. TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs. *To appear in Annual Technical Conference (ATC), 2023*.[[preprint]](https://arxiv.org/pdf/2112.02052.pdf)[[code]](https://github.com/YukeWang96/TC-GNN_ATC23)
+[ATC'23] Yuke Wang, Boyuan Feng, Zheng Wang, **Guyue Huang**, Yufei Ding. TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs. Annual Technical Conference (ATC), 2023.[[preprint]](https://arxiv.org/pdf/2112.02052.pdf)[[code]](https://github.com/YukeWang96/TC-GNN_ATC23)
 
-[MLsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. *To appear in Machine Learning and Systems, 2023*. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
+[MLsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. Machine Learning and Systems, 2023. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
 
 [[SC'22]](https://arxiv.org/abs/2110.05722) Xiaohui Wang, Yang Wei, Ying Xiong, **Guyue Huang**, Xian Qian, Yufei Ding, Mingxuan Wang, Lei Li. LightSeq2: Accelerated Training for Transformer-based Models on GPUs. SC'22.
 
@@ -56,6 +57,10 @@ My recent research interest is architecture support for sparse computing. I am h
 - ISCA'23 Artifact Evaluation Reviewer
 - DAC'23 Reviewer
 - MLSys'23 Extended Review Committee
+
+## Internship
+- 2023 summer. NVIDIA. Deep Learning Architect Intern.
+- 2022 summer. NVIDIA. Deep Learning Architect Intern.
 
 ## Talks
 - (2023/3) Talk at Google, ML+Compiler Reading Group: Enabling Data Movement and Computation Pipelining in Deep Learning Compiler. 

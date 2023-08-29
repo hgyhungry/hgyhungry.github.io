@@ -13,12 +13,12 @@ I am also generally interested / experienced with
 [[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ## Publications
-[MICRO'23] Guyue Huang, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
+[MICRO'23] **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
 Microarchitecture (MICRO-56), 2023*.
 
-[ATC'23] Yuke Wang, Boyuan Feng, Zheng Wang, **Guyue Huang**, Yufei Ding. TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs. Annual Technical Conference (ATC), 2023.[[preprint]](https://arxiv.org/pdf/2112.02052.pdf)[[code]](https://github.com/YukeWang96/TC-GNN_ATC23)
+[[ATC'23]](https://www.usenix.org/system/files/atc23-wang-yuke.pdf) Yuke Wang, Boyuan Feng, Zheng Wang, **Guyue Huang**, Yufei Ding. TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs. Annual Technical Conference (ATC), 2023.[[preprint]](https://arxiv.org/pdf/2112.02052.pdf)[[code]](https://github.com/YukeWang96/TC-GNN_ATC23)[[bibtex]](https://github.com/YukeWang96/personal_page/blob/1c3e27bb4a31ba2c40315179575fc3a21a1ef35d/_publications/publication.bib#L115-L120)[[code]](https://github.com/YukeWang96/TC-GNN_ATC23)
 
-[MLsys'23] **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. Machine Learning and Systems, 2023. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
+[[MLsys'23]](https://proceedings.mlsys.org/paper_files/paper/2023/hash/12a304a31e42dfefa21c82431e849124-Abstract-mlsys2023.html) **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. Machine Learning and Systems, 2023. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
 
 [[SC'22]](https://arxiv.org/abs/2110.05722) Xiaohui Wang, Yang Wei, Ying Xiong, **Guyue Huang**, Xian Qian, Yufei Ding, Mingxuan Wang, Lei Li. LightSeq2: Accelerated Training for Transformer-based Models on GPUs. SC'22.
 

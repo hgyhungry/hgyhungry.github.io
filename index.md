@@ -24,7 +24,7 @@ Microarchitecture (MICRO-56), 2023*.
 
 My PhD research is about supporting sparsity in AI/DL on GPU. Sparisty is a fascinating feature in modern deep learning that is both highly potential and extremely difficult for hardware to tackle. I investigate software and architecture methods to empower many forms of sparsity including weight sparsity, activation sparsity, graphs, embedding layers, and MoE. Refer to RM-STC (to appear, MICRO 2023), [<ins>Shfl-BW</ins>](https://dl.acm.org/doi/abs/10.1145/3489517.3530588) (DAC'22), [<ins>DA-SpMM</ins>](https://dl.acm.org/doi/10.1145/3489517.3530508) (DAC'22) and [<ins>GE-SpMM</ins>](https://ieeexplore.ieee.org/document/9355302) (SC'20).
 
-I also do research about **deep learning compiler**. I am interested in how to integrate advanced hardware features and analytical performance models into DL compilers to close the gap between compiler generated and manually developed kernels on DL accelerators. I mainly work on the TVM stack. My recent work [<ins>ALCOP</ins>](https://arxiv.org/abs/2210.16691)(first-author paper at MLSys'23) studies how to realize load-compute pipelining via compiler automation.
+I also do research about **deep learning compiler**. I am interested in how to integrate advanced hardware features and analytical performance models into DL compilers to close the gap between compiler generated and manually developed kernels on DL accelerators. I mainly work on the TVM stack. My recent work [<ins>ALCOP</ins>](https://arxiv.org/abs/2210.16691)(MLSys'23) studies how to realize load-compute pipelining via compiler automation.
 
 ## Awards
 - MLSys'23 Student Travel Grant

@@ -6,7 +6,7 @@ I am a PhD candidate at Department of Electrical and Computer Engineering, UC Sa
 
 My PhD research is focused on supporting sparsity in AI/DL on GPU. I am also interested in DL system and DL compiler.
 
-[[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
+[[CV]](https://hgyhungry.github.io/resume.pdf)[[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ## Selected Publications
 [MICRO'23] **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on

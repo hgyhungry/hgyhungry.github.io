@@ -2,14 +2,14 @@
 hguyue1@gmail.com
 
 ## Bio
-I am a PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara, starting from 2020. I work with Prof. [Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/) and Prof. [Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
+I am a PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara. I work with [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/), [Prof. Yufei Ding](https://picassolab.squarespace.com/yufei) and [Prof. Yuan Xie](https://scholar.google.com/citations?user=dK2ZuDcAAAAJ&hl=en). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
 
 My PhD research is focused on supporting sparsity in AI/DL on GPU. I am also interested in DL system and DL compiler.
 
 [[CV]](https://hgyhungry.github.io/resume.pdf)[[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ## Selected Publications
-[MICRO'23] **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
+[[MICRO'23]](https://dl.acm.org/doi/10.1145/3613424.3623775) **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
 Microarchitecture (MICRO-56), 2023*.
 
 [[MLsys'23]](https://proceedings.mlsys.org/paper_files/paper/2023/hash/12a304a31e42dfefa21c82431e849124-Abstract-mlsys2023.html) **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. Machine Learning and Systems, 2023. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)

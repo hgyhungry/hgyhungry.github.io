@@ -2,11 +2,9 @@
 hguyue1@gmail.com
 
 ## Bio
-I am a PhD candidate at Department of Electrical and Computer Engineering, UC Santa Barbara. I work with [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/), [Prof. Yufei Ding](https://picassolab.squarespace.com/yufei) and [Prof. Yuan Xie](https://scholar.google.com/citations?user=dK2ZuDcAAAAJ&hl=en). Previously I received my B.E. in 2020 from Department of Electronic Engineering, Tsinghua University. 
+I am currently an engineer at NVIDIA working on GPU architecture and systems for deep learning. Previously I obtained my Ph.D. and Masters from University of California Santa Barbara where I worked with [Prof. Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/), [Prof. Yufei Ding](https://picassolab.squarespace.com/yufei) and [Prof. Yuan Xie](https://scholar.google.com/citations?user=dK2ZuDcAAAAJ&hl=en). My PhD research is about deep learning systems and architecture, particularly focused on DL compiler and DL sparsity. I received my B.E. from Department of Electronic Engineering, Tsinghua University in Beijing, China. 
 
-My PhD research is focused on supporting sparsity in AI/DL on GPU. I am also interested in DL system and DL compiler.
-
-[[CV]](https://hgyhungry.github.io/resume.pdf)[[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
+[[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ## Selected Publications
 [[MICRO'23]](https://dl.acm.org/doi/10.1145/3613424.3623775) **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
@@ -20,6 +18,11 @@ Microarchitecture (MICRO-56), 2023*.
 
 [[SC'20]](https://ieeexplore.ieee.org/document/9355302) **Guyue Huang**, Guohao Dai, Yu Wang and Huazhong Yang. GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2020. [[preprint]](https://arxiv.org/abs/2007.03179)[[code]](https://github.com/hgyhungry/ge-spmm)[[bibtex]](https://github.com/hgyhungry/hgyhungry.github.io/blob/e132384030cb8a273b5c35e02d84582f04294ffc/paperbib#L38)
 
+## Job Experience
+- May 2024 - now, NVIDIA. Deep Learning Architect.
+- 2023 summer. NVIDIA. Deep Learning Architect Intern.
+- 2022 summer. NVIDIA. Deep Learning Architect Intern.
+
 ## Research Experiences
 
 My PhD research is about supporting sparsity in AI/DL on GPU. Sparisty is a fascinating feature in modern deep learning that is both highly potential and extremely difficult for hardware to tackle. I investigate software and architecture methods to empower many forms of sparsity including weight sparsity, activation sparsity, graphs, embedding layers, and MoE. Refer to RM-STC (to appear, MICRO 2023), [<ins>Shfl-BW</ins>](https://dl.acm.org/doi/abs/10.1145/3489517.3530588) (DAC'22), [<ins>DA-SpMM</ins>](https://dl.acm.org/doi/10.1145/3489517.3530508) (DAC'22) and [<ins>GE-SpMM</ins>](https://ieeexplore.ieee.org/document/9355302) (SC'20).
@@ -32,17 +35,14 @@ I also do research about **deep learning compiler**. I am interested in how to i
 - DAC'22 best paper nomination
 - ACM Student Research Competition (2020) Graduate 3rd Place [[webpage]](https://src.acm.org/)
 
-## Services
-- TODAES Paper Reviewer
+## Academic Services
+- Transaction on Computers paper reviewer
 - ISCA'23 Artifact Evaluation Reviewer
 - DAC'23 Reviewer
 - MLSys'23 Extended Review Committee
 
-## Internship
-- 2023 summer. NVIDIA. Deep Learning Architect Intern.
-- 2022 summer. NVIDIA. Deep Learning Architect Intern.
-
 ## Talks
+- (2024/2) Talk at Meta, PyTorch Compiler team's Technical Interlock: High-Performance Deep Learning Systems via DL Sparsity and DL Compilers.
 - (2023/3) Talk at Google, ML+Compiler Reading Group: Enabling Data Movement and Computation Pipelining in Deep Learning Compiler. 
 - (2023/3) Talk at [[TVMCon 2023]](https://www.youtube.com/playlist?list=PL_4zDggB-DBp81G1tAME9r0_P5IY9D700): [Enabling Data Movement and Computation Pipelining in Deep Learning Compiler](https://youtu.be/BC59piQj1qA)
 - (2022/11) Talk at AWS, Scale Team: Enabling Data Movement and Computation Pipelining in Deep Learning Compiler.

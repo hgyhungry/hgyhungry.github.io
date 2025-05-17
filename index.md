@@ -7,14 +7,15 @@ I am currently an engineer at NVIDIA working on GPU architecture and systems for
 [[Google Scholar page]](https://scholar.google.com/citations?user=_phoJY8AAAAJ&hl=en)
 
 ## Selected Publications
-[[MICRO'23]](https://dl.acm.org/doi/10.1145/3613424.3623775) **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. *To appear in 56th IEEE/ACM International Symposium on
-Microarchitecture (MICRO-56), 2023*.
+[ISCA'25] **Guyue Huang**, Hao Li, Le Qin, Jiayi Huang, Yangwook Kang, Yufei Ding, Yuan Xie. TRACI: Network Acceleration of Input-Dynamic Communication for Large-Scale Deep Learning Recommendation Model. Proceedings of the 52nd Annual International Symposium on Computer Ar-
+chitecture (ISCA ’25), 2025.
+
+[[MICRO'23]](https://dl.acm.org/doi/10.1145/3613424.3623775) **Guyue Huang**, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie. RM-STC: Row-Merge Dataflow Inspired GPU Sparse Tensor Core for Energy-Efficient Sparse Acceleration. 56th IEEE/ACM International Symposium on
+Microarchitecture (MICRO-56), 2023.
 
 [[MLsys'23]](https://proceedings.mlsys.org/paper_files/paper/2023/hash/12a304a31e42dfefa21c82431e849124-Abstract-mlsys2023.html) **Guyue Huang**, Yang Bai, Liu Liu, Yuke Wang, Bei Yu, Yufei Ding, Yuan Xie. ALCOP: Automatic Load-Compute Pipelining in Deep Learning Compiler for AI-GPUs. Machine Learning and Systems, 2023. [[preprint]](https://arxiv.org/abs/2210.16691)[[code]](https://github.com/hgyhungry/alcop-artifact)
 
 [[DAC'22]](https://dl.acm.org/doi/abs/10.1145/3489517.3530588) **Guyue Huang**, Haoran Li, Minghai Qin, Fei Sun, Yufei Ding and Yuan Xie. Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning. DAC'22 [[preprint]](https://arxiv.org/abs/2203.05016)[[code]](https://github.com/hgyhungry/ShflBW_Sparse_NN)[[bibtex]](https://github.com/hgyhungry/hgyhungry.github.io/blob/e132384030cb8a273b5c35e02d84582f04294ffc/paperbib#L1)
-
-[[ACM-SRC'21 Poster]](https://arxiv.org/abs/2106.16064) **Guyue Huang**, Guohao Dai, Yu Wang, Yufei Ding and Yuan Xie. Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction. 2021. ACM Student Research Competition (SRC), Graduate 3rd Place (https://src.acm.org)
 
 [[SC'20]](https://ieeexplore.ieee.org/document/9355302) **Guyue Huang**, Guohao Dai, Yu Wang and Huazhong Yang. GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2020. [[preprint]](https://arxiv.org/abs/2007.03179)[[code]](https://github.com/hgyhungry/ge-spmm)[[bibtex]](https://github.com/hgyhungry/hgyhungry.github.io/blob/e132384030cb8a273b5c35e02d84582f04294ffc/paperbib#L38)
 
